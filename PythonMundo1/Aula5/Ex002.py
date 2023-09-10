@@ -1,0 +1,5 @@
+nome = str(input('Qual seu nome?'))
+ano = int(input('Em que ano estamos?'))
+nasc = int(input('Em que ano você nasceu?'))
+idade = (ano - nasc)
+print (f'Seu nome é {nome}, e atualmente você tem {idade} anos')
