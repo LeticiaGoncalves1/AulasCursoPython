@@ -7,7 +7,6 @@ p = int(input('Escolha o intevalo que os números pularão: '))
 lista =[]
 contador = 0
 
-
 for c in range (i, f+1, p):
     print (c)
     contador += 1
